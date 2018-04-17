@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Get and Set Text Example</string>
+    <string name="btn_text">Click for show</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_city">Enter city</string>
+    <string name="your_name_is">Your  name is </string>
+    <string name="your_city_name_is">Your city name is </string>
+
+</resources>

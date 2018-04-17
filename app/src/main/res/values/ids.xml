@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn" type="id">btn</item>
+    <item name="text_name" type="id">text_name</item>
+    <item name="text_city" type="id">text_city</item>
+</resources>
